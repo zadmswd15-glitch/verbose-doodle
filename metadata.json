@@ -1,0 +1,6 @@
+{
+  "name": "Advanced AI Assistant",
+  "description": "Bilingual (Arabic/English) AI assistant platform featuring real-time Firebase syncing, conversational memory learning, and custom file analyses.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
